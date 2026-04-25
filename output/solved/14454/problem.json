@@ -1,0 +1,15 @@
+{
+  "problemId": 14454,
+  "title": "Secret Cow Code",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>&nbsp;</p>\n\n<p>The cows are experimenting with secret codes, and have devised a method for creating an infinite-length string to be used as part of one of their codes.</p>\n\n<p>Given a string&nbsp;s, let&nbsp;F(s) be&nbsp;s&nbsp;followed by&nbsp;s&nbsp;\"rotated\" one character to the right (in a right rotation, the last character of&nbsp;s&nbsp;rotates around and becomes the new first character). Given an initial string&nbsp;s, the cows build their infinite-length code string by repeatedly applying&nbsp;F; each step therefore doubles the length of the current string.</p>\n\n<p>Given the initial string and an index&nbsp;N, please help the cows compute the character at the&nbsp;Nth position within the infinite code string.</p>\n\n<p>&nbsp;</p>",
+  "inputDesc": "<p>The input consists of a single line containing a string followed by&nbsp;N. The string consists of at most 30 uppercase characters, and&nbsp;N ≤ 10<sup>18</sup>.</p>\n\n<p>Note that&nbsp;N&nbsp;may be too large to fit into a standard 32-bit integer, so you may want to use a 64-bit integer type (e.g., a \"long long\" in C/C++).</p>",
+  "outputDesc": "<p>Please output the&nbsp;Nth character of the infinite code built from the initial string. The first character is&nbsp;N=1.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "Recursion"
+  ],
+  "fetchedAt": "2026-04-25T03:23:06.804Z"
+}

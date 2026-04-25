@@ -1,0 +1,15 @@
+{
+  "problemId": 9653,
+  "title": "Star Wars Logo",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>ASCII art is a graphic design technique that creates pictures using the 95 printable ASCII characters. Use ASCII art to display the classic Stars Wars logo&nbsp;</p>",
+  "outputDesc": "<p>ASCII representation of the Star Wars logo exactly as shown.&nbsp;</p>\n\n<p>&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:12:39.598Z"
+}

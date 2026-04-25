@@ -1,0 +1,16 @@
+{
+  "problemId": 14170,
+  "title": "Counting Haybales",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Farmer John has just arranged his N haybales (1≤N≤100,000) at various points along the one-dimensional road running across his farm. To make sure they are spaced out appropriately, please help him answer Q queries (1≤Q≤100,000), each asking for the number of haybales within a specific interval along the road.</p>\n\n<p>&nbsp;</p>",
+  "inputDesc": "<p>The first line contains N and Q.</p>\n\n<p>The next line containsNN distinct integers, each in the range 0…1,000,000,000, indicating that there is a haybale at each of those locations.</p>\n\n<p>Each of the next Q lines contains two integers A and B (0≤A≤B≤1,000,000,000) giving a query for the number of haybales between A and B, inclusive.</p>",
+  "outputDesc": "<p>You should write Q lines of output. For each query, output the number of haybales in its respective interval.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "Sorting",
+    "Binary Search"
+  ],
+  "fetchedAt": "2026-04-25T03:22:30.339Z"
+}

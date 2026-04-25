@@ -1,0 +1,11 @@
+{
+  "submissionId": 68872139,
+  "problemId": 30458,
+  "problemTitle": "팰린드롬 애너그램",
+  "result": "맞았습니다!!",
+  "memory": 2512,
+  "time": 8,
+  "language": "C++17 / 수정",
+  "codeLength": 509,
+  "submittedAt": "2023년 11월 5일 05:40:44"
+}

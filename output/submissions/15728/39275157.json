@@ -1,0 +1,11 @@
+{
+  "submissionId": 39275157,
+  "problemId": 15728,
+  "problemTitle": "에리 - 카드",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1119,
+  "submittedAt": "2022년 2월 18일 11:50:30"
+}

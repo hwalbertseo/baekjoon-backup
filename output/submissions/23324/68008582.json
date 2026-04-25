@@ -1,0 +1,11 @@
+{
+  "submissionId": 68008582,
+  "problemId": 23324,
+  "problemTitle": "어려운 모든 정점 쌍 최단 거리",
+  "result": "맞았습니다!!",
+  "memory": 26376,
+  "time": 64,
+  "language": "C++17 / 수정",
+  "codeLength": 1055,
+  "submittedAt": "2023년 10월 14일 19:23:33"
+}

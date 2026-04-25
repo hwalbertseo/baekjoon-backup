@@ -1,0 +1,16 @@
+{
+  "problemId": 10172,
+  "title": "Dogs",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Print the ascii dog as shown below.</p>",
+  "inputDesc": "<p>none.</p>",
+  "outputDesc": "<p>Print the picture as shown below. The long horizontal line __ is comprised of two underscore characters, and the dog’s nose is a zero.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:13:42.037Z"
+}

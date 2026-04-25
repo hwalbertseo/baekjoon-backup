@@ -1,0 +1,29 @@
+#include <iostream>
+#include <cstdio>
+
+using namespace std;
+
+void setHash(bool has[], int len){
+    for(int i = 2;i < len;i++){
+        if(!has[i]){
+            if(i < 1001){
+                for(int j = i * i;j < len;j = j + i){
+                    has[j] = true;
+                }
+            }
+        }
+    }
+}
+
+int main()
+{
+    int p, q;
+    scanf("%d %d", &p, &q);
+    bool hashTable[q+1] = {false,};
+    hashTable[0] = true;
+    hashTable[1] = true;
+    setHash(hashTable, q+1);
+    for(int i = p;i < q+1;i++){
+        if(!hashTable[i]) printf("%d\n", i);
+    }
+}

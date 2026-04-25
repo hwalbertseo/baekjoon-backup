@@ -1,0 +1,18 @@
+{
+  "problemId": 14452,
+  "title": "Cow Dance Show",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>After several months of rehearsal, the cows are just about ready to put on their annual dance performance; this year they are performing the famous bovine ballet \"Cowpelia\".</p>\n\n<p>The only aspect of the show that remains to be determined is the size of the stage. A stage of size&nbsp;K&nbsp;can support&nbsp;K&nbsp;cows dancing simultaneously. The&nbsp;N&nbsp;cows in the herd (1 ≤ N ≤ 10,000) are conveniently numbered&nbsp;1…N in the order in which they must appear in the dance. Each cow&nbsp;i&nbsp;plans to dance for a specific duration of time&nbsp;d(i). Initially, cows&nbsp;1…K appear on stage and start dancing. When the first of these cows completes her part, she leaves the stage and cow&nbsp;K+1 immediately starts dancing, and so on, so there are always&nbsp;K&nbsp;cows dancing (until the end of the show, when we start to run out of cows). The show ends when the last cow completes her dancing part, at time&nbsp;T.</p>\n\n<p>Clearly, the larger the value of&nbsp;K, the smaller the value of&nbsp;T. Since the show cannot last too long, you are given as input an upper bound&nbsp;T<sub>max</sub> specifying the largest possible value of&nbsp;T. Subject to this constraint, please determine the smallest possible value of&nbsp;K.</p>",
+  "inputDesc": "<p>The first line of input contains&nbsp;N&nbsp;and&nbsp;T<sub>max</sub>, where&nbsp;T<sub>max</sub> is an integer of value at most 1 million.</p>\n\n<p>The next&nbsp;N&nbsp;lines give the durations&nbsp;d(1)…d(N) of the dancing parts for cows&nbsp;1…N. Each&nbsp;d(i) value is an integer in the range&nbsp;1…100,000.</p>\n\n<p>It is guaranteed that if&nbsp;K=N, the show will finish in time.</p>\n\n<p>&nbsp;</p>",
+  "outputDesc": "<p>Print out the smallest possible value of&nbsp;K&nbsp;such that the dance performance will take no more than&nbsp;T<sub>max</sub> units of time.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "Data Structures",
+    "Binary Search",
+    "Priority Queue",
+    "Parametric Search"
+  ],
+  "fetchedAt": "2026-04-25T03:22:53.329Z"
+}

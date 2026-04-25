@@ -1,0 +1,11 @@
+{
+  "submissionId": 40015834,
+  "problemId": 10974,
+  "problemTitle": "모든 순열",
+  "result": "맞았습니다!!",
+  "memory": 2800,
+  "time": 20,
+  "language": "C++17 / 수정",
+  "codeLength": 540,
+  "submittedAt": "2022년 3월 6일 07:14:54"
+}

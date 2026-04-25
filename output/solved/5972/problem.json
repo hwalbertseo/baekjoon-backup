@@ -1,0 +1,18 @@
+{
+  "problemId": 5972,
+  "title": "Package Delivery",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Farmer John must deliver a package to Farmer Dan, and is preparing to make his journey. To keep the peace, he gives a tasty treat to every cow that he meets along his way and, of course, FJ is so frugal that he would like to encounter as few cows as possible.</p>\n\n<p>FJ has plotted a map of N (1 &lt;= N &lt;= 50,000) barns, connected by M (1 &lt;= M &lt;= 50,000) bi-directional cow paths, each with C_i (0 &lt;= C_i &lt;= 1,000) cows ambling along it. A cow path connects two distinct barns, A_i and B_i (1 &lt;= A_i &lt;= N; 1 &lt;= B_i &lt;= N; A_i != B_i). Two barns may be directly connected by more than one path. He is currently located at barn 1, and Farmer Dan is located at barn N.</p>\n\n<p>Consider the following map:</p>\n\n<pre>           [2]---\n          / |    \\\n         /1 |     \\ 6\n        /   |      \\\n     [1]   0|    --[3]\n        \\   |   /     \\2\n        4\\  |  /4      [6]\n          \\ | /       /1\n           [4]-----[5] \n                3  </pre>\n\n<p>The best path for Farmer John to take is to go from 1 -&gt; 2 -&gt; 4 -&gt; 5 -&gt; 6, because it will cost him 1 + 0 + 3 + 1 = 5 treats.</p>\n\n<p>Given FJ's map, what is the minimal number of treats that he should bring with him, given that he will feed each distinct cow he meets exactly one treat? He does not care about the length of his journey.</p>",
+  "inputDesc": "<ul>\n\t<li>Line 1: Two space-separated integers: N and M</li>\n\t<li>Lines 2..M+1: Three space-separated integers: A_i, B_i, and C_i</li>\n</ul>\n\n<p>&nbsp;</p>",
+  "outputDesc": "<ul>\n\t<li>Line 1: The minimum number of treats that FJ must bring</li>\n</ul>\n\n<p>&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Shortest Path",
+    "Dijkstra's"
+  ],
+  "fetchedAt": "2026-04-25T03:09:31.820Z"
+}

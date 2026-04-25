@@ -1,0 +1,18 @@
+{
+  "problemId": 2914,
+  "title": "FAKTOR",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Impact factor of a scientific journal is a measure reflecting the average number of citations to articles published in science journals. For this task we are using a simplified formula for calculating the impact factor:</p>\n\n<p>(Total sum of all citations articles published in the journal recived)/(Total number of articles published)</p>\n\n<p>Rounding is always preformed up. For example the impact factor of the “Journal for ore research and time wasting” that published 38 articles quoted 894 times is 894 / 38 = 23.53 rounding up to 24.</p>\n\n<p>You are the editor of one scientific journal. You know how much article you are going to publish and the owners are pushing you to reach a specific impact factor. You are wondering how many scientists you will have to bribe to cite your article to meet the owners demands. Since money is tight you want to bribe the minimal amount of scientists.</p>",
+  "inputDesc": "<p>First and only line of input will contain 2 integers, A (1 ≤ A ≤ 100), number of articles you plan to publish and I (1 ≤ I ≤ 100) impact factor the owners require.</p>",
+  "outputDesc": "<p>First and only line of output should contain one integer, the minimal number of scientists you need to bribe.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Mathematics",
+    "Implementation",
+    "Arithmetic"
+  ],
+  "fetchedAt": "2026-04-25T03:06:52.588Z"
+}

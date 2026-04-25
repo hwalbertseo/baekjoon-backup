@@ -1,0 +1,11 @@
+{
+  "submissionId": 35952139,
+  "problemId": 18870,
+  "problemTitle": "좌표 압축",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 558,
+  "submittedAt": "2021년 12월 1일 13:47:46"
+}

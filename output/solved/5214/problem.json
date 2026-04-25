@@ -1,0 +1,18 @@
+{
+  "problemId": 5214,
+  "title": "HIPERCIJEVI",
+  "timeLimit": "2 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>In a galaxy far, far away, the fastest method of transportation is using hypertubes. Each hypertube directly connects K stations with each other. What is the minimum number of stations that we need to pass through in order to get from station 1 to station N?</p>",
+  "inputDesc": "<p>The first line of input contains three positive integers: N (1 ≤ N ≤ 100 000), the number of stations, K (1 ≤ K ≤ 1 000), the number of stations that any single hypertube directly interconnects, and M (1 ≤ M ≤ 1 000), the number of hypertubes.</p>\n\n<p>Each of the following M lines contains the description of a single hypertube: K positive integers, the labels of stations connected to that hypertube.</p>",
+  "outputDesc": "<p>The first and only line of output must contain the required minimum number of stations. If it isn't possible to travel from station 1 to station N, output -1.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Graph Traversal",
+    "Breadth-first Search"
+  ],
+  "fetchedAt": "2026-04-25T03:08:41.269Z"
+}

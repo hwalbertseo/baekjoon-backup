@@ -1,0 +1,16 @@
+{
+  "problemId": 10171,
+  "title": "Cats",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Print the ascii cat as shown below.</p>",
+  "inputDesc": "<p>none.</p>",
+  "outputDesc": "<p>Print the picture as shown below. The horizontal line __ is comprised of two underscore characters.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:13:35.672Z"
+}

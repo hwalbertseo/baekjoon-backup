@@ -1,0 +1,11 @@
+{
+  "submissionId": 35161622,
+  "problemId": 11659,
+  "problemTitle": "구간 합 구하기 4",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 418,
+  "submittedAt": "2021년 11월 7일 07:23:16"
+}

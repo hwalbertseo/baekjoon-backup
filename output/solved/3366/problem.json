@@ -1,0 +1,17 @@
+{
+  "problemId": 3366,
+  "title": "Sequence",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>We are given a sequence a<sub>1</sub>, ..., a<sub>n</sub>. We can manipulate this sequence using the operation reduce(i), which replaces elements a<sub>i</sub> and a<sub>i+1</sub> with a single element max(a<sub>i</sub>, a<sub>i+1</sub>), resulting in a new shorter sequence. The cost of this operation is max(a<sub>i</sub>, a<sub>i+1</sub>). After n − 1 operations reduce, we obtain a sequence of length 1. Our task is to compute the cost of the optimal reducing scheme, i.e. the sequence of reduce operations with minimal cost leading to a sequence of length 1.</p>",
+  "inputDesc": "<p>The ﬁrst line contains n (1 ≤ n ≤ 1,000,000), the length of the sequence. The following n lines contain one integer a<sub>i</sub>, the elements of the sequence (0 ≤ a<sub>i</sub> ≤ 1,000,000,000).</p>",
+  "outputDesc": "<p>In the ﬁrst and only line of the output print the minimal cost of reducing the sequence to a single element.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Data Structures",
+    "Greedy"
+  ],
+  "fetchedAt": "2026-04-25T03:08:01.223Z"
+}

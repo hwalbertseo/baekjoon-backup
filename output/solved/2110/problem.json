@@ -1,0 +1,18 @@
+{
+  "problemId": 2110,
+  "title": "Aggressive cows",
+  "timeLimit": "2 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Farmer John has built a new long barn, with N (2 &lt;= N &lt;= 200,000) stalls. The stalls are located along a straight line at positions x1,...,xN (0 &lt;= xi &lt;= 1,000,000,000).</p>\n\n<p>His C (2 &lt;= C &lt;= N) cows don't like this barn layout and become aggressive towards each other once put into a stall. To prevent the cows from hurting each other, FJ want to assign the cows to the stalls, such that the minimum distance between any two of them is as large as possible. What is the largest minimum distance?</p>",
+  "inputDesc": "<ul>\n\t<li>Line 1: Two space-separated integers: N and C</li>\n\t<li>Lines 2..N+1: Line i+1 contains an integer stall location, xi</li>\n</ul>",
+  "outputDesc": "<ul>\n\t<li>Line 1: One integer: the largest minimum distance</li>\n</ul>",
+  "tags": [
+    "실패",
+    "다국어",
+    "원문",
+    "보기",
+    "Binary Search",
+    "Parametric Search"
+  ],
+  "fetchedAt": "2026-04-25T03:37:39.535Z"
+}

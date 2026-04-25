@@ -1,0 +1,20 @@
+{
+  "problemId": 13565,
+  "title": "Percolation",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Professor Kim is in the process of developing a new fabric material such that the electrical current percolates. The cross section of the new fabric can be shown in the two-dimensional M × N grid. We assume that the top of the grid is the outer side of the fabric and the bottom is the inner side. The black colored cell insulates the current while the white cell conducts the current. The current travels from the outer side to the inner side of the fabric only through the white cells that are adjacent to each other. When the white cells are connected diagonally, the current cannot flow (see Figure 1). The professor wants to test whether the current could percolate from the outer side to the inner side through the material or not.</p>\n\n<p>For example, the following Figure 1(a) shows that the current percolates through the material but Figure 1(b) does not:</p>\n\n<table class=\"table\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><img alt=\"\" src=\"https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13565/1.png\" style=\"height:163px; width:129px\"></td>\n\t\t\t<td style=\"text-align: center;\"><img alt=\"\" src=\"https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13565/2.png\" style=\"height:157px; width:127px\"></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">(a) The current percolates.</td>\n\t\t\t<td style=\"text-align: center;\">(b) The current does not percolate.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"text-align: center;\">Figure 1. Two examples.</p>\n\n<p>When the information on each cell is given, write a program that computes whether the current can pass through the material or not.</p>",
+  "inputDesc": "<p>Your program is to read from standard input. The first line of the input contains two integers M (2 ≤ M ≤ 1,000) and N (2 ≤ N ≤ 1,000) which represent the size of the fabric. In the following M lines, the information about each cell is given. Each line consists of N characters which composed by ‘0’ or ‘1’. The character ‘0’ represents the conduct cell and ‘1’ represents the insulate cell.</p>",
+  "outputDesc": "<p>Your program is to write to standard output. If the current can pass through the material from the top to the bottom, print YES. If not, print NO.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Graph Traversal",
+    "Breadth-first Search",
+    "Depth-first Search",
+    "Grid Graph"
+  ],
+  "fetchedAt": "2026-04-25T03:22:06.977Z"
+}

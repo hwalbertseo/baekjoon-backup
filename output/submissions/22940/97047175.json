@@ -1,0 +1,11 @@
+{
+  "submissionId": 97047175,
+  "problemId": 22940,
+  "problemTitle": "선형 연립 방정식",
+  "result": "런타임 에러 (IntegerOverflow)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 2537,
+  "submittedAt": "2025년 8월 3일 05:05:09"
+}

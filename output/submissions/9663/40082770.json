@@ -1,0 +1,11 @@
+{
+  "submissionId": 40082770,
+  "problemId": 9663,
+  "problemTitle": "N-Queen",
+  "result": "맞았습니다!!",
+  "memory": 2020,
+  "time": 4448,
+  "language": "C++17 / 수정",
+  "codeLength": 1028,
+  "submittedAt": "2022년 3월 7일 12:58:32"
+}

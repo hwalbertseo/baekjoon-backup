@@ -1,0 +1,11 @@
+{
+  "submissionId": 35369288,
+  "problemId": 10986,
+  "problemTitle": "나머지 합",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 496,
+  "submittedAt": "2021년 11월 12일 16:45:50"
+}

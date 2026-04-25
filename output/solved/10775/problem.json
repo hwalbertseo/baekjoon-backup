@@ -1,0 +1,18 @@
+{
+  "problemId": 10775,
+  "title": "Gates",
+  "timeLimit": "1 초 (추가 시간 없음)",
+  "memoryLimit": "256 MB",
+  "description": "<p>For your birthday, you were given an airport.</p>\n\n<p>The airport has G gates, numbered from 1 to G.</p>\n\n<p>P planes arrive at the airport, one after another. You are to assign the ith plane to permanently dock at any gate 1, . . . , g<sub>i</sub> (1 ≤ g<sub>i</sub> ≤ G), at which no previous plane has docked. As soon as a plane cannot dock at any gate, the airport is shut down and no future planes are allowed to arrive.</p>\n\n<p>In order to keep the person who gave you the airport happy, you would like to maximize the number of planes starting from the beginning that can all dock at different gates.</p>",
+  "inputDesc": "<p>The first line of input contains G (1 ≤ G ≤ 10<sup>5</sup>), the number of gates at the airport.</p>\n\n<p>The second line of input contains P (1 ≤ P ≤ 10<sup>5</sup>), the number of planes which will land.</p>\n\n<p>The next P lines contain one integer g<sub>i</sub> (1 ≤ g<sub>i</sub> ≤ G), such that the ith plane must dock at some gate from 1 to g<sub>i</sub>, inclusive.</p>\n\n<p>Note that for at least 40% of the marks for this question, P ≤ 2000 and G ≤ 2000.</p>",
+  "outputDesc": "<p>Output the maximum number of planes that can land starting from the beginning.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Data Structures",
+    "Greedy",
+    "Disjoint Set"
+  ],
+  "fetchedAt": "2026-04-25T03:15:06.392Z"
+}

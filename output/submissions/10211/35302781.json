@@ -1,0 +1,11 @@
+{
+  "submissionId": 35302781,
+  "problemId": 10211,
+  "problemTitle": "Maximum Subarray",
+  "result": "맞았습니다!!",
+  "memory": 2024,
+  "time": 8,
+  "language": "C++17 / 수정",
+  "codeLength": 602,
+  "submittedAt": "2021년 11월 11일 00:19:18"
+}

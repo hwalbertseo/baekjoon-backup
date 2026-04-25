@@ -1,0 +1,18 @@
+{
+  "problemId": 18321,
+  "title": "Wormhole Sort",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Farmer John's cows have grown tired of his daily request that they sort themselves before leaving the barn each morning. They have just completed their PhDs in quantum physics, and are ready to speed things up a bit.</p>\n\n<p>This morning, as usual, Farmer John's $N$ cows ($1 \\leq N \\leq 10^5$), conveniently numbered $1 \\dots N$, are scattered throughout the barn at $N$ distinct locations, also numbered $1 \\dots N$, such that cow $i$ is at location $p_i$. But this morning there are also $M$ wormholes ($1 \\leq M \\leq 10^5$), numbered $1 \\dots M$, where wormhole $i$ bidirectionally connects location $a_i$ with location $b_i$, and has a width $w_i$ ($1\\le a_i,b_i\\le N, a_i\\neq b_i, 1\\le w_i\\le 10^9$).</p>\n\n<p>At any point in time, two cows located at opposite ends of a wormhole may choose to simultaneously swap places through the wormhole. The cows must perform such swaps until cow $i$ is at location $i$ for $1 \\leq i \\leq N$.</p>\n\n<p>The cows are not eager to get squished by the wormholes. Help them maximize the width of the least wide wormhole which they must use to sort themselves. It is guaranteed that it is possible for the cows to sort themselves.</p>",
+  "inputDesc": "<p>The first line contains two integers, $N$ and $M$.</p>\n\n<p>The second line contains the $N$ integers $p_1, p_2, \\dots, p_N$. It is guaranteed that $p$ is a permutation of $1\\ldots N.$</p>\n\n<p>For each $i$ between $1$ and $M$, line $i+2$ contains the integers $a_i$, $b_i$, and $w_i$.</p>",
+  "outputDesc": "<p>A single integer: the maximum minimal wormhole width which a cow must squish itself into during the sorting process. If the cows do not need any wormholes to sort themselves, output $-1$.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "Data Structures",
+    "Graph Theory",
+    "Binary Search",
+    "Disjoint Set"
+  ],
+  "fetchedAt": "2026-04-25T03:32:31.678Z"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 38578593,
+  "problemId": 2263,
+  "problemTitle": "트리의 순회",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1363,
+  "submittedAt": "2022년 2월 4일 15:22:32"
+}

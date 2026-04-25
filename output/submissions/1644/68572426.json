@@ -1,0 +1,11 @@
+{
+  "submissionId": 68572426,
+  "problemId": 1644,
+  "problemTitle": "Sum of Consecutive Prime Numbers",
+  "result": "맞았습니다!!",
+  "memory": 33272,
+  "time": 68,
+  "language": "C++17 / 수정",
+  "codeLength": 873,
+  "submittedAt": "2023년 10월 28일 18:29:16"
+}

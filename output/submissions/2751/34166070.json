@@ -1,0 +1,11 @@
+{
+  "submissionId": 34166070,
+  "problemId": 2751,
+  "problemTitle": "수 정렬하기 2",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1288,
+  "submittedAt": "2021년 10월 7일 07:32:47"
+}

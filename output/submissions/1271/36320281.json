@@ -1,0 +1,11 @@
+{
+  "submissionId": 36320281,
+  "problemId": 1271,
+  "problemTitle": "엄청난 부자2",
+  "result": "런타임 에러 (DivisionByZero)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 134,
+  "submittedAt": "2021년 12월 14일 14:58:44"
+}

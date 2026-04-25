@@ -1,0 +1,15 @@
+{
+  "problemId": 5337,
+  "title": "Welcome",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Print out the “Welcome” sign shown below.</p>",
+  "outputDesc": "<p>Print out the picture as shown below.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:08:48.951Z"
+}

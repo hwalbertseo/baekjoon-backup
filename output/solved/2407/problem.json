@@ -1,0 +1,16 @@
+{
+  "problemId": 2407,
+  "title": "조합",
+  "timeLimit": "2 초",
+  "memoryLimit": "128 MB",
+  "description": "<p><sub>n</sub>C<sub>m</sub>을 출력한다.</p>",
+  "inputDesc": "<p>n과 m이 주어진다. (5 ≤&nbsp;n ≤&nbsp;100, 5 ≤&nbsp;m ≤&nbsp;100, m ≤&nbsp;n)</p>",
+  "outputDesc": "<p><sub>n</sub>C<sub>m</sub>을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "Mathematics",
+    "Combinatorics",
+    "Arbitrary Precision / Big Integers"
+  ],
+  "fetchedAt": "2026-04-25T03:02:46.997Z"
+}

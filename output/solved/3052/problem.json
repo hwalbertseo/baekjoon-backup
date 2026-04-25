@@ -1,0 +1,18 @@
+{
+  "problemId": 3052,
+  "title": "MODULO",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Given two integers A and B, A modulo B is the remainder when dividing A by B. For example, the numbers 7, 14, 27 and 38 become 1, 2, 0 and 2, modulo 3. Write a program that accepts 10 numbers as input and outputs the number of distinct numbers in the input, if the numbers are considered modulo 42.</p>",
+  "inputDesc": "<p>The input will contain 10 non-negative integers, each smaller than 1000, one per line.&nbsp;</p>",
+  "outputDesc": "<p>Output the number of distinct values when considered modulo 42 on a single line.&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Mathematics",
+    "Arithmetic",
+    "Set / Map"
+  ],
+  "fetchedAt": "2026-04-25T03:07:35.633Z"
+}

@@ -1,0 +1,17 @@
+{
+  "problemId": 14465,
+  "title": "Why Did the Cow Cross the Road II (Silver)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>The long road through Farmer John's farm has&nbsp;N&nbsp;crosswalks across it, conveniently numbered&nbsp;1…N&nbsp;(1 ≤ N ≤ 100,000). To allow cows to cross at these crosswalks, FJ installs electric crossing signals, which light up with a green cow icon when it is ok for the cow to cross, and red otherwise. Unfortunately, a large electrical storm has damaged some of his signals. Given a list of the damaged signals, please compute the minimum number of signals that FJ needs to repair in order for there to exist some contiguous block of at least&nbsp;K&nbsp;working signals.</p>",
+  "inputDesc": "<p>The first line of input contains&nbsp;N,&nbsp;K, and&nbsp;B&nbsp;(1 ≤ B,K ≤ N). The next&nbsp;B&nbsp;lines each describe the ID number of a broken signal.</p>",
+  "outputDesc": "<p>Please compute the minimum number of signals that need to be repaired in order for there to be a contiguous block of&nbsp;K working signals somewhere along the road.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
+  "fetchedAt": "2026-04-25T03:23:23.258Z"
+}

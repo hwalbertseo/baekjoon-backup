@@ -1,0 +1,19 @@
+{
+  "problemId": 1765,
+  "title": "The Gangs",
+  "timeLimit": "2 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Chicago in the 1920s: a battlefield of gangsters.</p>\n\n<p>If two gangsters have ever met each other, then they have become either true friends or mortal enemies. The gangsters live - and die - by the following code of ethics.</p>\n\n<ol>\n\t<li>A friend of my friend is also my friend.</li>\n\t<li>An enemy of my enemy is my friend.</li>\n</ol>\n\n<p>Two gangsters are in the same gang if and only if they are friends.</p>\n\n<p>Poor you are employed by the Chicago Police Department. You must calculate the maximal possible number of different gangs in Chicago based on what the Department knows about the relations between the individual gangsters.</p>",
+  "inputDesc": "<p>The first line of the input gives the number N (2 ≤ N ≤ 1 000) of known gangsters. The gangsters are numbered from 1 to N. The second line gives the number M (1 ≤ M ≤ 5 000) of known facts about these gangsters.</p>\n\n<p>The following M lines list the facts, each fact on its own line. Each fact is of the form F p q or E p q, where 1 ≤ p &lt; q ≤ N are the two gangsters in question. (Each of three components is separated by a space.) If the first letter is F, the line says that p and q are known friends. If it is E, then they are known enemies.</p>\n\n<p>It can be assume that the input is consistent - two gangsters cannot be both friends and enemies of each other.</p>",
+  "outputDesc": "<p>The first and only line of the output must contain the maximal possible number of gangs.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Data Structures",
+    "Graph Theory",
+    "Graph Traversal",
+    "Disjoint Set"
+  ],
+  "fetchedAt": "2026-04-25T02:59:00.464Z"
+}

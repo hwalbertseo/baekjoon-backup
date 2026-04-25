@@ -1,7 +1,9 @@
-node_modules/
-dist/
-output/
-progress.json
-*.tsbuildinfo
-.env
-.worktrees/
+# ignore everything
+*
+
+# but keep the gitignore itself
+!.gitignore
+
+# keep output folder and everything inside it
+!output/
+!output/**

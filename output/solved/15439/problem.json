@@ -1,0 +1,18 @@
+{
+  "problemId": 15439,
+  "title": "Vera and Outfits",
+  "timeLimit": "2 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Vera owns N tops and N pants. The i-th top and i-th pants have colour i, for 1 ≤ i ≤ N, where all N colours are different from each other.</p>\n\n<p>An outfit consists of one top and one pants. Vera likes outfits where the top and pants are not the same colour.</p>\n\n<p>How many different outfits does she like?</p>",
+  "inputDesc": "<p>The input will be in the format:</p>\n\n<pre>N\n</pre>",
+  "outputDesc": "<p>Output one line with the number of different outfits Vera likes.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Mathematics",
+    "Implementation",
+    "Combinatorics"
+  ],
+  "fetchedAt": "2026-04-25T03:25:01.969Z"
+}

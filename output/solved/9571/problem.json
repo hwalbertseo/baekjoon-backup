@@ -1,0 +1,19 @@
+{
+  "problemId": 9571,
+  "title": "Crowded Cows",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Farmer John's N cows (1 &lt;= N &lt;= 50,000) are grazing along a one-dimensional fence.  Cow i is standing at location x(i) and has height h(i) (1 &lt;= x(i),h(i) &lt;= 1,000,000,000).</p><p>A cow feels \"crowded\" if there is another cow at least twice her height within distance D on her left, and also another cow at least twice her height within distance D on her right (1 &lt;= D &lt;= 1,000,000,000).  Since crowded cows produce less milk, Farmer John would like to count the number of such cows.  Please help him.</p>",
+  "inputDesc": "<ul><li>Line 1: Two integers, N and D.</li><li>Lines 2..1+N: Line i+1 contains the integers x(i) and h(i).  The locations of all N cows are distinct.</li></ul>",
+  "outputDesc": "<ul><li>Line 1: The number of crowded cows.</li></ul>",
+  "tags": [
+    "성공",
+    "다국어",
+    "Data Structures",
+    "Segment Tree",
+    "Set / Map",
+    "Set / Map By Trees",
+    "Two-pointer"
+  ],
+  "fetchedAt": "2026-04-25T03:12:31.272Z"
+}

@@ -1,0 +1,16 @@
+{
+  "problemId": 16123,
+  "title": "피타고라스 쌍",
+  "timeLimit": "2 초 (추가 시간 없음)",
+  "memoryLimit": "512 MB",
+  "description": "<p><strong>피타고라스 쌍</strong>은 <em>m</em> &gt; <em>n</em>인 1 이상의 자연수 <em>m</em>, <em>n</em>에 대해</p>\n\n<p style=\"margin-left: auto; margin-right: auto; width: 11ex;\"><em>a</em> = <em>m</em><sup>2</sup> - <em>n</em><sup>2</sup><br>\n<em>b</em> = 2<em>mn</em><br>\n<em>c</em> = <em>m</em><sup>2</sup> + <em>n</em><sup>2</sup></p>\n\n<p>인 (<em>a</em>, <em>b</em>, <em>c</em>)를 말합니다. 이때 (<em>a</em>, <em>b</em>, <em>c</em>)는 (<em>m</em>, <em>n</em>)으로부터 <strong>생성되었다</strong>고 얘기합니다.</p>\n\n<p><strong>원시 피타고라스 쌍</strong>&nbsp;(<em>a</em>, <em>b</em>, <em>c</em>)는 피타고라스 쌍이면서 gcd(<em>a</em>, <em>b</em>, <em>c</em>) = 1인 것입니다. 당신은 <em>L</em>이 주어졌을 때, <em>n</em> &lt; <em>m</em> ≤ <em>L</em>인 (<em>m</em>, <em>n</em>)으로부터 생성된 원시 피타고라스 쌍의 개수를 구해야 합니다.</p>",
+  "inputDesc": "<p>첫째 줄에 5,000,000,000보다 작거나 같은 양의 정수 <em>L</em>이 주어집니다.</p>",
+  "outputDesc": "<p>정답을 출력합니다.</p>",
+  "tags": [
+    "실패",
+    "보기",
+    "Mathematics",
+    "Number Theory"
+  ],
+  "fetchedAt": "2026-04-25T03:38:30.852Z"
+}

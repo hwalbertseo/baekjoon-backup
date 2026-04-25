@@ -1,0 +1,18 @@
+{
+  "problemId": 11967,
+  "title": "Switching on the Lights",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Farmer John has recently built an enormous barn consisting of an \\(N \\times N\\) grid of rooms (\\(2 \\leq N \\leq 100\\)), numbered from \\((1,1)\\) up to \\((N,N)\\). Being somewhat afraid of the dark, Bessie the cow wants to turn on the lights in as many rooms as possible.</p>\n\n<p>Bessie starts in room \\((1,1)\\), the only room that is initially lit. In some rooms, she will find light switches that she can use to toggle the lights in other rooms; for example there might be a switch in room \\((1,1)\\) that toggles the lights in room \\((1,2)\\). Bessie can only travel through lit rooms, and she can only move from a room \\((x,y)\\) to its four adjacent neighbors \\((x-1,y)\\), \\((x+1,y)\\), \\((x,y-1)\\) and \\((x,y+1)\\) (or possibly fewer neighbors if this room is on the boundary of the grid).</p>\n\n<p>Please determine the maximum number of rooms Bessie can illuminate.</p>",
+  "inputDesc": "<p>The first line of input contains integers \\(N\\) and \\(M\\) (\\(1 \\leq M \\leq 20,000\\)).</p>\n\n<p>The next \\(M\\) lines each describe a single light switch with four integers \\(x\\), \\(y\\), \\(a\\), \\(b\\), that a switch in room \\((x,y)\\) can be used to toggle the lights in room \\((a,b)\\). Multiple switches may exist in any room, and multiple switches may toggle the lights of any room.</p>",
+  "outputDesc": "<p>A single line giving the maximum number of rooms Bessie can illuminate.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Graph Traversal",
+    "Breadth-first Search"
+  ],
+  "fetchedAt": "2026-04-25T03:20:05.166Z"
+}

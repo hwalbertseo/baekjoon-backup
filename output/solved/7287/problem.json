@@ -1,0 +1,18 @@
+{
+  "problemId": 7287,
+  "title": "Registration",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Print out your ICPC team number and team name.</p>",
+  "inputDesc": "<p>No input is given for this problem.</p>",
+  "outputDesc": "<p>Your program is to write to standard output. Print exactly two lines. The first line should contain your team number, and the second line should contain your full team name, even if your team name contains one or more blanks (a character of ASCII 32).</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "다국어",
+    "원문과 다름",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:10:08.614Z"
+}

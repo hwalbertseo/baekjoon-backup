@@ -1,0 +1,20 @@
+{
+  "problemId": 1644,
+  "title": "Sum of Consecutive Prime Numbers",
+  "timeLimit": "2 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Some positive integers can be represented by a sum of one or more consecutive prime numbers. How many such representations does a given positive integer have? For example, the integer 53 has two representations 5 + 7 + 11 + 13 + 17 and 53. The integer 41 has three representations 2 + 3 + 5 + 7 + 11 + 13, 11 + 13 + 17, and 41. The integer 3 has only one representation, which is 3. The integer 20 has no such representations. Note that summands must be consecutive prime numbers, so neither 7 + 13 nor 3 + 5 + 5 + 7 is a valid representation for the integer 20.</p>\n\n<p>Your mission is to write a program that reports the number of representations for the given positive integer.</p>",
+  "inputDesc": "<p>The input is a single positive integer.&nbsp;The integers are between 1&nbsp;and 4,000,000, inclusive.&nbsp;</p>",
+  "outputDesc": "<p>An output line includes the number of representations for the input integer as the sum of one or more consecutive prime numbers. No other characters should be inserted in the output.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Mathematics",
+    "Number Theory",
+    "Two-pointer",
+    "Primality Test",
+    "Sieve Of Eratosthenes"
+  ],
+  "fetchedAt": "2026-04-25T02:57:41.164Z"
+}

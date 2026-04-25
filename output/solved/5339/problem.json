@@ -1,0 +1,14 @@
+{
+  "problemId": 5339,
+  "title": "Call For Help",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>C3PO is in trouble. Your only chance to save him is to broadcast this ASCII picture depicting his current predicament.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:09:02.708Z"
+}

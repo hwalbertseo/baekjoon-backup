@@ -1,0 +1,17 @@
+{
+  "problemId": 2231,
+  "title": "Digit Generator",
+  "timeLimit": "2 초",
+  "memoryLimit": "192 MB",
+  "description": "<p>For a positive integer N, the digit-sum of N is defined as the sum of N itself and its digits. When M is the digitsum of N, we call N a generator of M.</p>\n\n<p>For example, the digit-sum of 245 is 256 (= 245 + 2 + 4 + 5). Therefore, 245 is a generator of 256.</p>\n\n<p>Not surprisingly, some numbers do not have any generators and some numbers have more than one generator. For example, the generators of 216 are 198 and 207.</p>\n\n<p>You are to write a program to find the smallest generator of the given integer.</p>",
+  "inputDesc": "<p>Your program is to read from standard input. The input consists of T test cases. The number of test cases T is given in the first line of the input. Each test case takes one line containing an integer N, 1 ≤ N ≤ 100,000.</p>",
+  "outputDesc": "<p>Your program is to write to standard output. Print exactly one line for each test case. The line is to contain a generator of N for each test case. If N has multiple generators, print the smallest. If N does not have any generators, print 0.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문과 다름",
+    "원문",
+    "Bruteforcing"
+  ],
+  "fetchedAt": "2026-04-25T03:01:53.680Z"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 22619860,
+  "problemId": 9251,
+  "problemTitle": "LCS",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C99 / 수정",
+  "codeLength": 778,
+  "submittedAt": "2020년 9월 17일 08:04:41"
+}

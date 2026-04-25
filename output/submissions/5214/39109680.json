@@ -1,0 +1,11 @@
+{
+  "submissionId": 39109680,
+  "problemId": 5214,
+  "problemTitle": "HIPERCIJEVI",
+  "result": "런타임 에러 (bad_alloc)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 2069,
+  "submittedAt": "2022년 2월 15일 08:20:04"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 35526101,
+  "problemId": 13565,
+  "problemTitle": "Percolation",
+  "result": "맞았습니다!!",
+  "memory": 39212,
+  "time": 60,
+  "language": "C++17 / 수정",
+  "codeLength": 895,
+  "submittedAt": "2021년 11월 17일 15:25:59"
+}

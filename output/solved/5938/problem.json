@@ -1,0 +1,18 @@
+{
+  "problemId": 5938,
+  "title": "Daisy Chains in the Field",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Farmer John let his N (1 &lt;= N &lt;= 250) cows conveniently numbered 1..N play in the field. The cows decided to connect with each other using cow-ropes, creating M (1 &lt;= M &lt;= N*(N-1)/2) pairwise connections. Of course, no two cows had more than one rope directly connecting them. The input shows pairs of cows c1 and c2 that are connected (1 &lt;= c1 &lt;= N; 1 &lt;= c2 &lt;= N; c1 != c2).</p>\n\n<p>FJ instructed the cows to be part of a chain which contained cow #1. Help FJ find any misbehaving cows by determining, in ascending order, the numbers of the cows not connected by one or more ropes to cow 1 (cow 1 is always connected to herself, of course). If there are no misbehaving cows, output 0.</p>\n\n<p>To show how this works, consider six cows with four connections:</p>\n\n<pre>    1---2  4---5\n     \\  |\n      \\ |      6\n       \\|\n        3</pre>\n\n<p>Visually, we can see that cows 4, 5, and 6 are not connected to cow 1.</p>",
+  "inputDesc": "<ul>\n\t<li>Line 1: Two space-separated integers: N and M</li>\n\t<li>Lines 2..M+1: Line i+1 shows two cows connected by rope i with two space-separated integers: c1 and c2</li>\n</ul>\n\n<p>&nbsp;</p>",
+  "outputDesc": "<ul>\n\t<li>Lines 1..???: Each line contains a single integer</li>\n</ul>\n\n<p>&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "Graph Theory",
+    "Graph Traversal",
+    "Breadth-first Search",
+    "Depth-first Search"
+  ],
+  "fetchedAt": "2026-04-25T03:09:24.328Z"
+}

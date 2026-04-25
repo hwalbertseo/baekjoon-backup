@@ -1,0 +1,18 @@
+{
+  "problemId": 1238,
+  "title": "Silver Cow Party",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>One cow from each of N farms (1 &lt;= N &lt;= 1000) conveniently numbered 1..N is going to attend the big cow party to be held at farm #X (1 &lt;= X &lt;= N). A total of M (1 &lt;= M &lt;= 100,000) unidirectional (one-way) roads connects pairs of farms; road i requires Ti (1 &lt;= Ti &lt;= 100) units of time to traverse.</p>\n\n<p>Each cow must walk to the party and, when the party is over, return to her farm. Each cow is lazy and thus picks an optimal route with the shortest time. A cow's return route might be different from her original route to the party since roads are one-way.</p>\n\n<p>Of all the cows, what is the longest amount of time a cow must spend walking to the party and back?</p>",
+  "inputDesc": "<p>* Line 1: Three space-separated integers, respectively: N, M, and X</p>\n\n<p>* Lines 2..M+1: Line i+1 describes road i with three space-separated integers: Ai, Bi, and Ti. The described road runs from farm Ai to farm Bi, requiring Ti time units to traverse.</p>",
+  "outputDesc": "<p>* Line 1: One integer: the maximum of time any one cow must walk.</p>\n\n<p>&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Shortest Path",
+    "Dijkstra's"
+  ],
+  "fetchedAt": "2026-04-25T02:55:05.332Z"
+}

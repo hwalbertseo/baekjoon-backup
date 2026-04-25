@@ -1,0 +1,11 @@
+{
+  "submissionId": 68864315,
+  "problemId": 1725,
+  "problemTitle": "Largest Rectangle in a Histogram",
+  "result": "맞았습니다!!",
+  "memory": 12836,
+  "time": 40,
+  "language": "C++17 / 수정",
+  "codeLength": 1742,
+  "submittedAt": "2023년 11월 5일 00:29:58"
+}

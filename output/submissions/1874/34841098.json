@@ -1,0 +1,11 @@
+{
+  "submissionId": 34841098,
+  "problemId": 1874,
+  "problemTitle": "스택 수열",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1463,
+  "submittedAt": "2021년 10월 28일 08:22:35"
+}

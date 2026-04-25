@@ -1,0 +1,20 @@
+{
+  "problemId": 10026,
+  "title": "Cow Art",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>A little known fact about cows is the fact that they are red-green colorblind, meaning that red and green look identical to them. &nbsp;This makes it especially difficult to design artwork that is appealing to cows as well as humans.</p>\n\n<p>Consider a square painting that is described by an N x N grid of characters (1 &lt;= N &lt;= 100), each one either R (red), G (green), or B (blue). &nbsp;A painting is interesting if it has many colored \"regions\" that can be distinguished from each-other. &nbsp;Two characters belong to the same region if they are directly adjacent (east, west, north, or south), and if they are indistinguishable in color. &nbsp;For example, the painting</p>\n\n<pre>RRRBB\nGGBBB\nBBBRR\nBBRRR\nRRRRR</pre>\n\n<p>has 4 regions (2 red, 1 blue, and 1 green) if viewed by a human, but only 3regions (2 red-green, 1 blue) if viewed by a cow. &nbsp;</p>\n\n<p>Given a painting as input, please help compute the number of regions in the painting when viewed by a human and by a cow.</p>",
+  "inputDesc": "<p>* Line 1: The integer N.</p>\n\n<p>* Lines 2..1+N: Each line contains a string with N characters, describing one row of a painting.</p>",
+  "outputDesc": "<p>* Line 1: Two space-separated integers, telling the number of regions in the painting when viewed by a human and by a cow.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Graph Traversal",
+    "Breadth-first Search",
+    "Depth-first Search",
+    "Grid Graph"
+  ],
+  "fetchedAt": "2026-04-25T03:13:10.335Z"
+}

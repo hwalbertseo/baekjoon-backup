@@ -1,0 +1,19 @@
+{
+  "problemId": 14464,
+  "title": "Why Did the Cow Cross the Road (Silver)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Farmer John's cows are trying to learn to cross the road effectively. Remembering the old \"why did the chicken cross the road?\" joke, they figure the chickens must be experts on crossing the road, and go off in search of chickens to help them.</p>\n\n<p>As it turns out, chickens are very busy creatures and have limited time to help the cows. There are&nbsp;C&nbsp;chickens on the farm (1 ≤ C ≤ 20,000), conveniently numbered&nbsp;1…C, and each chicken&nbsp;i&nbsp;is only willing to help a cow at precisely time&nbsp;T<sub>i</sub>. The cows, never in a hurry, have more flexibility in their schedules. There are&nbsp;N&nbsp;cows on the farm (1 ≤ N ≤ 20,000), conveniently numbered&nbsp;1…N, where cow&nbsp;j&nbsp;is able to cross the road between time&nbsp;A<sub>j</sub> and time&nbsp;B<sub>j</sub>. Figuring the \"buddy system\" is the best way to proceed, each cow&nbsp;j&nbsp;would ideally like to find a chicken&nbsp;i&nbsp;to help her cross the road; in order for their schedules to be compatible,&nbsp;i&nbsp;and j&nbsp;must satisfy&nbsp;A<sub>j </sub>≤ T<sub>i</sub> ≤ B<sub>j</sub>.</p>\n\n<p>If each cow can be paired with at most one chicken and each chicken with at most one cow, please help compute the maximum number of cow-chicken pairs that can be constructed.</p>",
+  "inputDesc": "<p>The first line of input contains C&nbsp;and&nbsp;N. The next&nbsp;C&nbsp;lines contain&nbsp;T<sub>1</sub>…T<sub>C</sub>, and the next&nbsp;N&nbsp;lines contain&nbsp;A<sub>j</sub> and&nbsp;B<sub>j</sub>&nbsp;(A<sub>j&nbsp;</sub>≤ B<sub>j</sub>) for&nbsp;j=1…N. The&nbsp;A's,&nbsp;B's, and&nbsp;T's are all non-negative integers (not necessarily distinct) of size at most 1,000,000,000.</p>",
+  "outputDesc": "<p>Please compute the maximum possible number of cow-chicken pairs.</p>\n\n<p>&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Data Structures",
+    "Greedy",
+    "Sorting",
+    "Priority Queue"
+  ],
+  "fetchedAt": "2026-04-25T03:23:14.607Z"
+}

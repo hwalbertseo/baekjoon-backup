@@ -1,0 +1,15 @@
+{
+  "problemId": 9654,
+  "title": "Naboo Fleet Data",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>It is your job to print out the current status of Naboo’s Fleet.&nbsp;</p>\n\n<p>&nbsp;</p>",
+  "outputDesc": "<p>A well-formatted table exactly as shown. The first two columns are 15 characters wide, the third column is 11 characters wide, and the last column is 10 characters wide.&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:12:45.860Z"
+}

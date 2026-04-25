@@ -1,0 +1,17 @@
+{
+  "problemId": 2675,
+  "title": "Repeating Characters",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>For this problem, you will write a program that takes a string of characters, S, and creates a new string of characters, T, with each character repeated R times. That is, R copies of the first character of S, followed by R copies of the second character of S, and so on. Valid characters for S are the QR Code \"alphanumeric\" characters:</p>\n\n<pre>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ$%*+-./:</pre>",
+  "inputDesc": "<p>The first line of input contains a single integer P, ( 1 ≤ P ≤ 1000), which is the number of data sets that follow. Each data set is a single line of input consisting of the data set number N, followed by a space, followed by the repeat count R, ( 1 ≤ R ≤ 8), followed by a space, followed by the string S. The length of string S will always be at least one and no more than 20 characters. All the characters will be from the set of characters shown above.</p>",
+  "outputDesc": "<p>For each data set there is one line of output. It contains the data set number, N, followed by a single space which is then followed by the new string T, which is made of each character in S repeated R times.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation",
+    "String"
+  ],
+  "fetchedAt": "2026-04-25T03:05:07.971Z"
+}

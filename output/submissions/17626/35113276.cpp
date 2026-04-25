@@ -1,0 +1,49 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int arr[50005];
+    int num;
+    cin >> num;
+    arr[0] = 1;
+    int maxnum = 1;
+    for(;maxnum * maxnum <= num;maxnum++){
+        continue;
+    }
+    maxnum--;
+
+    //step 1;
+    for(int i = 1;i <= maxnum;i++){
+        arr[i*i] = 1;
+    }
+
+    //step2;
+    for(int i = 2;i <= num;i++){
+
+        for(int j = 1;j <= maxnum;j++){
+            if(i+j*j <= num && arr[i] == 1 && arr[i+j*j] == 0 ){
+                arr[i+j*j] = 2;
+            }
+        }
+        if(arr[num] >0) {cout<< arr[num]; return 0;}
+    }
+    for(int i = 2;i <= num;i++){
+        for(int j = 1;j <= maxnum;j++){
+            if(i+j*j <= num && arr[i] == 2 && arr[i+j*j] == 0){
+                arr[i+j*j] = 3;
+            }
+        }
+        if(arr[num] >0) {cout<< arr[num]; return 0;}
+    }
+    for(int i = 2;i <= num;i++){
+        for(int j = 1;j <= maxnum;j++){
+            if(i+j*j <= num && arr[i]  == 3 && arr[i+j*j] == 0){
+                arr[i+j*j] = 4;
+            }
+        }
+        if(arr[num] >0) {cout<< arr[num]; return 0;}
+    }
+    cout << arr[num];
+}

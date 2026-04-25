@@ -1,0 +1,19 @@
+{
+  "problemId": 14466,
+  "title": "Why Did the Cow Cross the Road III (Silver)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Why did the cow cross the road? Well, one reason is that Farmer John's farm simply has a lot of roads, making it impossible for his cows to travel around without crossing many of them.</p>\n\n<p>FJ's farm is arranged as an&nbsp;N×N square grid of fields (2 ≤ N ≤ 100), Certain pairs of adjacent fields (e.g., north-south or east-west) are separated by roads, and a tall fence runs around the external perimeter of the entire grid, preventing cows from leaving the farm. Cows can move freely from any field to any other adjacent field (north, east, south, or west), although they prefer not to cross roads unless absolutely necessary.</p>\n\n<p>There are&nbsp;K&nbsp;cows (1 ≤ K ≤ 100,K ≤ N<sup>2</sup>) on FJ's farm, each located in a different field. A pair of cows is said to be \"distant\" if, in order for one cow to visit the other, it is necessary to cross at least one road. Please help FJ count the number of distant pairs of cows.</p>",
+  "inputDesc": "<p>The first line of input contains&nbsp;N,&nbsp;K, and&nbsp;R. The next&nbsp;R&nbsp;lines describe&nbsp;R&nbsp;roads that exist between pairs of adjacent fields. Each line is of the form r&nbsp;c&nbsp;r′ c′ (integers in the range&nbsp;1…N), indicating a road between the field in (row&nbsp;r, column&nbsp;c) and the adjacent field in (row&nbsp;r′, column&nbsp;c′). The final&nbsp;K&nbsp;lines indicate the locations of the&nbsp;K&nbsp;cows, each specified in terms of a row and column.</p>",
+  "outputDesc": "<p>Print the number of pairs of cows that are distant.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Graph Traversal",
+    "Breadth-first Search",
+    "Grid Graph"
+  ],
+  "fetchedAt": "2026-04-25T03:23:31.047Z"
+}

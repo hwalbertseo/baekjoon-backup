@@ -1,0 +1,11 @@
+{
+  "submissionId": 68506277,
+  "problemId": 12015,
+  "problemTitle": "가장 긴 증가하는 부분 수열 2",
+  "result": "틀렸습니다",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 582,
+  "submittedAt": "2023년 10월 27일 00:57:22"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 34168153,
+  "problemId": 10814,
+  "problemTitle": "나이순 정렬",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1664,
+  "submittedAt": "2021년 10월 7일 08:15:33"
+}

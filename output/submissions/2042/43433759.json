@@ -1,0 +1,11 @@
+{
+  "submissionId": 43433759,
+  "problemId": 2042,
+  "problemTitle": "구간 합 구하기",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1342,
+  "submittedAt": "2022년 5월 17일 09:59:37"
+}

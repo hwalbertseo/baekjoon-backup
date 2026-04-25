@@ -1,0 +1,17 @@
+{
+  "problemId": 16981,
+  "title": "Exhibition",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>You are going to hold an exhibition of pictures. In the exhibition, you will put some pictures into frames and exhibit them, lining them up in a row.</p>\n\n<p>There are N candidate pictures for the exhibition, numbered from 1 through N. The picture i (1 ≤ i ≤ N) has size S<sub>i</sub> and value V<sub>i</sub>.</p>\n\n<p>Also, there are M frames for the pictures, numbered from 1 through M. The frame j (1 ≤ j ≤ M) has size C<sub>j</sub>. Only pictures of size at most C<sub>j</sub> can be put into the frame j. At most one picture can be put into a frame.</p>\n\n<p>Every picture to be exhibited must be put into a frame. For the sake of appearance, they must satisfy the following conditions:</p>\n\n<ul>\n\t<li>For any neighboring two pictures, the size of the frame containing the right picture must be at least the size of the frame containing the left picture.</li>\n\t<li>For any neighboring two pictures, the value of the right picture must be at least the value of the left picture.</li>\n</ul>\n\n<p>You want to exhibit as many pictures as possible.</p>\n\n<p>Write a program which, given the number of pictures, the number of frames, and their sizes and values, calculates the maximum number of pictures to be exhibited.</p>",
+  "inputDesc": "<p>Read the following data from the standard input.</p>\n\n<pre>N M\nS<sub>1</sub> V<sub>1</sub>\n.\n.\n.\nS<sub>N</sub> V<sub>N</sub>\nC<sub>1</sub>\n.\n.\n.\nC<sub>M</sub></pre>",
+  "outputDesc": "<p>Write one line to the standard output. The output should contain the maximum number of pictures to be exhibited.</p>",
+  "tags": [
+    "성공",
+    "서브태스크",
+    "다국어",
+    "Greedy",
+    "Sorting"
+  ],
+  "fetchedAt": "2026-04-25T03:29:44.358Z"
+}

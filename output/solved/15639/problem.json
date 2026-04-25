@@ -1,0 +1,16 @@
+{
+  "problemId": 15639,
+  "title": "Rick",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>릭이 하지 않는 행동은 무엇일까?</p>",
+  "inputDesc": "<p>한 줄로 행동이 주어진다. 알파벳과 띄어쓰기로만 이루어져 있다. 첫 단어 이전과 마지막 단어 이후에 띄어쓰기는 없으며, 단어 사이에는 하나의 띄어쓰기만 들어간다. 입력의 길이는 100 이하이다.</p>",
+  "outputDesc": "<p>릭이 할 수 있는 행동이면 YES, 하지 않는 행동이면 NO를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "번외",
+    "Implementation",
+    "String"
+  ],
+  "fetchedAt": "2026-04-25T03:39:13.947Z"
+}

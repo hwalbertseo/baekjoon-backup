@@ -1,0 +1,11 @@
+{
+  "submissionId": 40600680,
+  "problemId": 2206,
+  "problemTitle": "벽 부수고 이동하기",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 1531,
+  "submittedAt": "2022년 3월 17일 14:36:24"
+}

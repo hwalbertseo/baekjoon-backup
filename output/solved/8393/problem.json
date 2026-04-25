@@ -1,0 +1,17 @@
+{
+  "problemId": 8393,
+  "title": "Sum",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>John got a bad mark in math. The teacher gave him another task. John is to write a program which computes the sum of integers from 1 to n. If he manages to present a correct program, the bad mark will be cancelled.</p>\n\n<p>Write a program which:</p>\n\n<ul>\n\t<li>reads the number n from the standard input,</li>\n\t<li>computes the sum of integers from 1 to n,</li>\n\t<li>writes the answer to the standard output.</li>\n</ul>",
+  "inputDesc": "<p>The first and only line of the standard input contains one integer n (1 ≤ n ≤ 10 000).</p>\n\n<p>&nbsp;</p>",
+  "outputDesc": "<p>One integer is to be written to the standard output. This integer should be the sum of integers from 1 to n.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Mathematics",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:11:09.023Z"
+}

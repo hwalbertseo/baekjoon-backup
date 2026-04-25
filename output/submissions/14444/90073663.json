@@ -1,0 +1,11 @@
+{
+  "submissionId": 90073663,
+  "problemId": 14444,
+  "problemTitle": "가장 긴 팰린드롬 부분 문자열",
+  "result": "맞았습니다!!",
+  "memory": 7356,
+  "time": 4,
+  "language": "C++17 / 수정",
+  "codeLength": 1000,
+  "submittedAt": "2025년 2월 14일 09:43:05"
+}

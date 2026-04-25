@@ -1,0 +1,18 @@
+{
+  "problemId": 9466,
+  "title": "Term Project",
+  "timeLimit": "3 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Students who enrolled in the ‘Problem Solving’ course in this fall semester have to carry out a term project. There is no limit to the number of project team members. Even one team is allowed such that all students are members of the same team. In order to form project teams, every student should select a friend with whom he or she wants to work. A student who wants to work alone can select himself or herself. A student list (s<sub>1</sub>, s<sub>2</sub>, ..., s<sub>r</sub>) can be a team if either r=1 and s<sub>1</sub> selects s<sub>1</sub> or s<sub>1</sub> selects s<sub>2</sub>, s<sub>2</sub> selects s<sub>3</sub>, … , s<sub>r-1</sub> selects s<sub>r</sub>, and s<sub>r</sub>&nbsp;selects s<sub>1</sub>.</p>\n\n<p>For example, let’s assume that there are 7 students in the class. The students are numbered from 1 to 7. The following is the result of the selection.</p>\n\n<table class=\"table table-bordered\" style=\"width:30%\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>1</th>\n\t\t\t<th>2</th>\n\t\t\t<th>3</th>\n\t\t\t<th>4</th>\n\t\t\t<th>5</th>\n\t\t\t<th>6</th>\n\t\t\t<th>7</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>3</td>\n\t\t\t<td>1</td>\n\t\t\t<td>3</td>\n\t\t\t<td>7</td>\n\t\t\t<td>3</td>\n\t\t\t<td>4</td>\n\t\t\t<td>6</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>From the above result, we can see that two teams (3) and (4, 7, 6) are formed. Students 1, 2, and 5 don’t belong to any team.</p>\n\n<p>Given the result of the selection, write a program to compute the number of students who don’t belong to a project team.&nbsp;</p>",
+  "inputDesc": "<p>Your program is to read from standard input. The input consists of T test cases. The number of test cases T is given in the first line of the input. Each test case starts with a line containing an integer n (2 ≤ n ≤ 100 000), where n is the number of students in the class. All students are numbered from 1 to n. The next line of each test case contains n integers s<sub>1</sub>, s<sub>2</sub>, ..., s<sub>n</sub>, where s<sub>i</sub>&nbsp;is the student who was a student ݅ selected by.&nbsp;</p>",
+  "outputDesc": "<p>Your program is to write to standard output. Print exactly one line for each test case. The line should contain the number of students who don’t belong to a project team.&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Graph Theory",
+    "Graph Traversal",
+    "Depth-first Search"
+  ],
+  "fetchedAt": "2026-04-25T03:12:06.850Z"
+}

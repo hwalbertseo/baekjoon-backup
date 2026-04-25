@@ -1,0 +1,16 @@
+{
+  "problemId": 10170,
+  "title": "NFC West vs North",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Your friends from the Midwest are always reminding you that the Seattle Seahawks won the NFC West Division with a losing record of 7-9 in 2011. At the time they were the only team to go to the NFL playoffs with a losing record (in a full season). To put an end to this nonsense you have decided to write a program to print the current NFC West and NFC North division standings.</p>",
+  "inputDesc": "<p>none.</p>",
+  "outputDesc": "<p>Print the NFC West and NFC North division records as shown below. The character “-”, is a dash notan underscore.&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Implementation"
+  ],
+  "fetchedAt": "2026-04-25T03:13:27.155Z"
+}

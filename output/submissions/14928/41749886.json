@@ -1,0 +1,11 @@
+{
+  "submissionId": 41749886,
+  "problemId": 14928,
+  "problemTitle": "큰 수 (BIG)",
+  "result": "런타임 에러 (OverflowError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 35,
+  "submittedAt": "2022년 4월 9일 12:35:52"
+}

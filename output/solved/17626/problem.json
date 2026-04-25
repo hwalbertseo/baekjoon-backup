@@ -1,0 +1,17 @@
+{
+  "problemId": 17626,
+  "title": "Four Squares",
+  "timeLimit": "0.5 초 (추가 시간 없음)",
+  "memoryLimit": "512 MB",
+  "description": "<p>It was proven by Lagrange in 1770 that every natural number can be represented as the sum of four or fewer squares. Some numbers are represented in multiple ways. For example, 26 is the sum of 5<sup>2</sup>&nbsp;and 1<sup>2</sup>; it can also be represented as 4<sup>2</sup> + 3<sup>2</sup> + 1<sup>2</sup>. Expressing a number as the sum of four or fewer squares is historically a common problem posed to lightning calculators. It was reported in the early 1900s that a calculator produced a solution of 15663 = 125<sup>2</sup> + 6<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup> in 8 seconds. A more difficult problem took 56 seconds: 11339 = 105<sup>2</sup> + 15<sup>2</sup> + 8<sup>2</sup>&nbsp;+ 5<sup>2</sup>.</p>\n\n<p>Given a natural number <em>n</em>, write a program to express <em>n</em> as the sum of as few squares as possible.</p>",
+  "inputDesc": "<p>Your program is to read from standard input. The input consists of a single line containing a natural number <em>n</em>, where 1 ≤ <em>n</em> ≤ 50,000.</p>",
+  "outputDesc": "<p>Your program is to write to standard output. Print exactly one line which contains the minimum number of squares whose sum is equal to <em>n</em>.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "Dynamic Programming",
+    "Bruteforcing"
+  ],
+  "fetchedAt": "2026-04-25T03:31:39.720Z"
+}
